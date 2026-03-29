@@ -1,6 +1,9 @@
-## Hi there, I'm Faiz Ilman 👋
+## WELCOME TO MY PAGE 👋
+![https://www.instagram.com/faizilman.dev](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) 
 
-I'm a Web Developer with 3 years of learning experience in building and developing web-based applications. Focused on creating responsive interfaces, optimizing performance, and writing clean, well-structured code. Committed to staying up-to-date with evolving technologies and continuously improving the quality of delivered solutions.
+## About Me <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+I'm Faiz Ilman. I'm a Web Developer with 3 years of learning experience in building and developing web-based applications. Focused on creating responsive interfaces, optimizing performance, and writing clean, well-structured code. Committed to staying up-to-date with evolving technologies and continuously improving the quality of delivered solutions.
 
 - 🌏 I'm live in Indonesia
 - ✉ You can Contact Me at fzilman12@gmail.com
